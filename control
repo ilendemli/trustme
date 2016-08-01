@@ -1,0 +1,9 @@
+Package: info.ilendemli.trustme
+Name: Trust Me Professor!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A tweak to "disable" certificate pinning in Pokemon GO.
+Maintainer: Muhammet Ilendemli
+Author: Muhammet Ilendemli
+Section: Tweaks
